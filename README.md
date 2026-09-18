@@ -10,7 +10,7 @@ I build practical Python tools for research, education and career decision-makin
 
 | Project | Problem it addresses | Technical evidence |
 | --- | --- | --- |
-| [Job Evidence Mapper](https://github.com/kalpanaiitm/job-evidence-mapper) | Connects job requirements to truthful candidate evidence and highlights gaps for human review. | Python, Streamlit, scikit-learn, TF-IDF matching, CSV/Markdown exports and regression tests. |
+| [Job Evidence Mapper](https://github.com/kalpanaiitm/job-evidence-mapper) | Connects job requirements to truthful candidate evidence and highlights gaps for human review. | Python, Streamlit, sentence-transformers, semantic similarity matching, CSV/Markdown exports and regression tests. |
 | [STEMSpark Event Planner](https://github.com/kalpanaiitm/stemspark-event-planner) | Plans school STEM events with budget, age-suitability and accessibility checks. | Pydantic models, deterministic validation tools, bounded plan revision, audit traces and tests. |
 | [RareEarthRAG](https://github.com/kalpanaiitm/RareEarthRAG) | Helps researchers find relevant passages in rare-earth materials papers. | PDF text extraction, TF-IDF retrieval, cosine similarity and source-linked results. Currently a retrieval baseline, not a complete generative RAG system. |
 | [StemSplit AI](https://github.com/kalpanaiitm/stemsplit-ai) | Separates uploaded music into six audio stems using a pretrained model. | FastAPI, Demucs integration, file-processing endpoints and Docker packaging. Local MVP with documented production limitations. |
