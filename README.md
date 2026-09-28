@@ -13,9 +13,12 @@ I build practical Python tools for research, education and career decision-makin
 | [Job Evidence Mapper](https://github.com/kalpanaiitm/job-evidence-mapper) | Connects job requirements to truthful candidate evidence and highlights gaps for human review. | Python, Streamlit, sentence-transformers, semantic similarity matching, CSV/Markdown exports and regression tests. |
 | [STEMSpark Event Planner](https://github.com/kalpanaiitm/stemspark-event-planner) | Plans school STEM events with budget, age-suitability and accessibility checks. | Pydantic models, deterministic validation tools, bounded plan revision, audit traces and tests. |
 | [RareEarthRAG](https://github.com/kalpanaiitm/RareEarthRAG) | Helps researchers find relevant passages in rare-earth materials papers. | PDF text extraction, TF-IDF retrieval, cosine similarity and source-linked results. Currently a retrieval baseline, not a complete generative RAG system. |
-| [SynthAudit](https://github.com/kalpanaiitm/synthaudit) | Checks whether synthesis methods report key details for expert review. | Modular Python rules, evidence snippets, guardrails, tests and GitHub Actions. Deterministic extraction, not an LLM. |\n| [StemSplit AI](https://github.com/kalpanaiitm/stemsplit-ai) | Separates uploaded music into six audio stems using a pretrained model. | FastAPI, Demucs integration, file-processing endpoints and Docker packaging. Local MVP with documented production limitations. |
+| [SynthAudit](https://github.com/kalpanaiitm/synthaudit) | Checks whether synthesis methods report key details for expert review. | Modular Python rules, evidence snippets, guardrails, tests and GitHub Actions. Deterministic extraction, not an LLM. |
+| [StemSplit AI](https://github.com/kalpanaiitm/stemsplit-ai) | Separates uploaded music into six audio stems using a pretrained model. | FastAPI, Demucs integration, file-processing endpoints and Docker packaging. Local MVP with documented production limitations. |
 
-The linked repositories include project blueprints, architecture notes, test reports and known limitations. [Materials Paper Summariser](https://github.com/kalpanaiitm/MaterialsPaperSummariser) and [PrivatePDF to Word](https://github.com/kalpanaiitm/privatepdf-to-word) provide additional document-processing examples.\n\n## What I bring
+The linked repositories include project blueprints, architecture notes, test reports and known limitations. [Materials Paper Summariser](https://github.com/kalpanaiitm/MaterialsPaperSummariser) and [PrivatePDF to Word](https://github.com/kalpanaiitm/privatepdf-to-word) provide additional document-processing examples.
+
+## What I bring
 
 - **Research depth:** PhD in Materials Chemistry, IIT Madras; postdoctoral research at the University of Southampton. My research focused on rare-earth molybdoantimonites, structural characterisation and luminescence.
 - **Clear communication:** science teaching experience and a PGCE with QTS, helping me translate technical ideas into understandable workflows.
@@ -30,7 +33,6 @@ My learning focus includes retrieval-augmented generation, embeddings, agent wor
 
 ## More scientific tools
 
-- [SynthAudit](https://github.com/kalpanaiitm/synthaudit) — checks materials synthesis reporting completeness and produces a human-review checklist; it does not assess scientific validity or laboratory safety.
 - [SciFigAudit](https://github.com/kalpanaiitm/scifigaudit) — provides explainable technical and accessibility signals for scientific figures before human review.
 
 ---
